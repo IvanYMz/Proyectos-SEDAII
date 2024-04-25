@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1620783382 source:c:\users\usuario\documents\prácts c++\c++\aeropuerto\src\col.cpp
+	"Col.h"
+
+1620783382 c:\users\usuario\documents\prácts c++\c++\aeropuerto\include\col.h
+	<iostream>
+	<cstdlib>
+	"Pasajero.h"
+
+1620772985 source:c:\users\usuario\documents\prácts c++\c++\aeropuerto\src\pasajero.cpp
+	"Pasajero.h"
+
+1620758014 c:\users\usuario\documents\prácts c++\c++\aeropuerto\include\pasajero.h
+	<iostream>
+
+1620785413 source:c:\users\usuario\documents\prácts c++\c++\aeropuerto\main.cpp
+	<iostream>
+	<windows.h>
+	"Col.h"
+	"Pilaa.h"
+	"Pasajero.h"
+
+1620760675 source:c:\users\usuario\documents\prácts c++\c++\aeropuerto\src\gruppas.cpp
+	"GrupPas.h"
+
+1620760591 c:\users\usuario\documents\prácts c++\c++\aeropuerto\include\gruppas.h
+	"Pasajero.h"
+
+1620783420 source:c:\users\usuario\documents\prácts c++\c++\aeropuerto\src\pila.cpp
+	"Pila.h"
+
+1620784403 c:\users\usuario\documents\prácts c++\c++\aeropuerto\include\pila.h
+	<iostream>
+	<cstdlib>
+	"Pasajero.h"
+
+1620787376 source:c:\users\usuario\documents\prácts c++\c++\aeropuerto\src\pilaa.cpp
+	"Pilaa.h"
+
+1620785256 c:\users\usuario\documents\prácts c++\c++\aeropuerto\include\pilaa.h
+	<iostream>
+	<cstdlib>
+	"Pasajero.h"
+
